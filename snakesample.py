@@ -516,4 +516,4 @@ async def reset(ctx):
 	room.pop(channel, None)
 	await ctx.send("Room has been reset")
 
-client.run("ODk1NzEwMTg1NDQ2ODY2OTU0.YV8hHQ.orvfqEjHs296d-PCAE06x0_GAFg")
+client.run("Bot Token here")
